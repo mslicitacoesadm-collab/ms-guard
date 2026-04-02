@@ -1,0 +1,2133 @@
+{
+  "lei": "Lei nº 14.133/2021",
+  "fonte": {
+    "arquivo": "Nova-Lei-de-Licitacoes-Esquematizada-Herbert-Almeida-–-4.-ed.pdf",
+    "tipo": "PDF enviado pelo usuário",
+    "observacao": "Estrutura em JSON derivada do conteúdo do arquivo. Os campos tema, resumo e palavras_chave foram organizados automaticamente a partir do texto dos artigos."
+  },
+  "total_artigos": 194,
+  "artigos": [
+    {
+      "artigo": "art. 1º",
+      "tema": "normas gerais e âmbito da lei",
+      "resumo": "Esta Lei estabelece normas gerais de licitação e contratação para as Administrações",
+      "palavras_chave": [
+        "normas",
+        "gerais",
+        "estabelece",
+        "licitacao"
+      ]
+    },
+    {
+      "artigo": "art. 2º",
+      "tema": "objetos abrangidos pela lei",
+      "resumo": "Esta Lei aplica-se a: I – alienação e concessão de direito real de uso de bens;",
+      "palavras_chave": [
+        "aplica",
+        "alienacao",
+        "concessao",
+        "direito"
+      ]
+    },
+    {
+      "artigo": "art. 3º",
+      "tema": "hipóteses não submetidas à lei",
+      "resumo": "Não se subordinam ao regime desta Lei: I – contratos que tenham por objeto operação de crédito, interno ou externo, e gestão de dívida pública, incluídas as contratações de agente financeiro e a concessão de garantia relacionadas a esses contratos; II – contratações sujeitas a normas previstas em legislação própria.",
+      "palavras_chave": [
+        "contratos",
+        "contratacoes",
+        "subordinam",
+        "regime"
+      ]
+    },
+    {
+      "artigo": "art. 4º",
+      "tema": "tratamento favorecido às micro e pequenas empresas",
+      "resumo": "Aplicam-se às licitações e contratos disciplinados por esta Lei as disposições constantes dos",
+      "palavras_chave": [
+        "aplicam",
+        "licitacoes",
+        "contratos",
+        "disciplinados"
+      ]
+    },
+    {
+      "artigo": "art. 5º",
+      "tema": "na aplicação desta lei, serão observados os princípios",
+      "resumo": "Na aplicação desta Lei, serão observados os princípios da legalidade, da impessoalidade, da moralidade, da publicidade, da eficiência, do interesse público, da probidade administrativa, da igualdade, do planejamento, da transparência, da eficácia, da segregação de funções, da motivação, da vinculação ao edital, do julgamento objetivo, da segurança jurídica, da razoabilidade, da competitividade, da proporcionalidade,",
+      "palavras_chave": [
+        "aplicacao",
+        "serao",
+        "observados",
+        "principios"
+      ]
+    },
+    {
+      "artigo": "art. 6º",
+      "tema": "para os fins desta lei, consideram-se",
+      "resumo": "Para os fins desta Lei, consideram-se:",
+      "palavras_chave": [
+        "fins",
+        "consideram"
+      ]
+    },
+    {
+      "artigo": "art. 7º",
+      "tema": "gestão por competências",
+      "resumo": "Caberá à autoridade máxima do órgão ou da entidade, ou a quem as normas de organização administrativa indicarem, promover gestão por competências e designar agentes públicos para o",
+      "palavras_chave": [
+        "gestao",
+        "competencias",
+        "cabera",
+        "autoridade"
+      ]
+    },
+    {
+      "artigo": "art. 8º",
+      "tema": "agentes públicos da licitação",
+      "resumo": "A licitação será conduzida por agente de contratação, pessoa designada pela autoridade competente, entre servidores efetivos ou empregados públicos dos quadros permanentes da",
+      "palavras_chave": [
+        "licitacao",
+        "publicos",
+        "sera",
+        "conduzida"
+      ]
+    },
+    {
+      "artigo": "art. 9º",
+      "tema": "vedações ao agente público",
+      "resumo": "É vedado ao agente público designado para atuar na área de licitações e contratos, ressalvados os casos previstos em lei: I – admitir, prever, incluir ou tolerar, nos atos que praticar, situações que: a) comprometam, restrinjam ou frustrem o caráter competitivo do processo licitatório, inclusive nos casos de participação de sociedades cooperativas; b) estabeleçam preferências ou distinções em razão da naturalidade,",
+      "palavras_chave": [
+        "agente",
+        "publico",
+        "casos",
+        "vedado"
+      ]
+    },
+    {
+      "artigo": "art. 10",
+      "tema": "responsabilização por parecer jurídico",
+      "resumo": "Se as autoridades competentes e os servidores públicos que tiverem participado dos",
+      "palavras_chave": [
+        "autoridades",
+        "competentes",
+        "servidores",
+        "publicos"
+      ]
+    },
+    {
+      "artigo": "art. 11",
+      "tema": "objetivos do processo licitatório",
+      "resumo": "O processo licitatório tem por objetivos: I – assegurar a seleção da proposta apta a gerar o resultado de contratação mais vantajoso",
+      "palavras_chave": [
+        "processo",
+        "licitatorio",
+        "objetivos",
+        "assegurar"
+      ]
+    },
+    {
+      "artigo": "art. 12",
+      "tema": "formalização documental do processo",
+      "resumo": "No processo licitatório, observar-se-á o seguinte: I – os documentos serão produzidos por escrito, com data e local de sua realização e assinatura dos responsáveis; II – os valores, os preços e os custos utilizados terão como expressão monetária a moeda corrente",
+      "palavras_chave": [
+        "processo",
+        "licitatorio",
+        "observar",
+        "seguinte"
+      ]
+    },
+    {
+      "artigo": "art. 13",
+      "tema": "os atos praticados no processo licitatório são públicos,",
+      "resumo": "Os atos praticados no processo licitatório são públicos, ressalvadas as hipóteses de",
+      "palavras_chave": [
+        "atos",
+        "praticados",
+        "processo",
+        "licitatorio"
+      ]
+    },
+    {
+      "artigo": "art. 14",
+      "tema": "não poderão disputar licitação ou participar da execução",
+      "resumo": "Não poderão disputar licitação ou participar da execução de contrato, direta ou indiretamente: I – autor do anteprojeto, do projeto básico ou do projeto executivo, pessoa física ou jurídica, quando a licitação versar sobre obra, serviços ou fornecimento de bens a ele relacionados; II – empresa, isoladamente ou em consórcio, responsável pela elaboração do projeto básico ou do projeto executivo, ou empresa da qual o",
+      "palavras_chave": [
+        "projeto",
+        "licitacao",
+        "poderao",
+        "disputar"
+      ]
+    },
+    {
+      "artigo": "art. 15",
+      "tema": "salvo vedação devidamente justificada no processo licitatório, pessoa",
+      "resumo": "Salvo vedação devidamente justificada no processo licitatório, pessoa jurídica poderá participar de licitação em consórcio, observadas as seguintes normas: I – comprovação de compromisso público ou particular de constituição de consórcio, subscrito pelos consorciados; II – indicação da empresa líder do consórcio, que será responsável por sua representação",
+      "palavras_chave": [
+        "consorcio",
+        "salvo",
+        "vedacao",
+        "devidamente"
+      ]
+    },
+    {
+      "artigo": "art. 16",
+      "tema": "os profissionais organizados sob a forma de cooperativa",
+      "resumo": "Os profissionais organizados sob a forma de cooperativa poderão participar de licitação quando: I – a constituição e o funcionamento da cooperativa observarem as regras estabelecidas na",
+      "palavras_chave": [
+        "cooperativa",
+        "profissionais",
+        "organizados",
+        "forma"
+      ]
+    },
+    {
+      "artigo": "art. 17",
+      "tema": "publicidade e transparência do processo",
+      "resumo": "O processo de licitação observará as seguintes fases, em sequência: I – preparatória; II – de divulgação do edital de licitação; III – de apresentação de propostas e lances, quando for o caso; IV – de julgamento; V – de habilitação; VI – recursal; VII – de homologação. § 1º A fase referida no inciso V do caput deste artigo poderá, mediante ato motivado com",
+      "palavras_chave": [
+        "processo",
+        "licitacao",
+        "observara",
+        "seguintes"
+      ]
+    },
+    {
+      "artigo": "art. 18",
+      "tema": "fase preparatória",
+      "resumo": "A fase preparatória do processo licitatório é caracterizada pelo planejamento e deve",
+      "palavras_chave": [
+        "fase",
+        "preparatoria",
+        "processo",
+        "licitatorio"
+      ]
+    },
+    {
+      "artigo": "art. 19",
+      "tema": "os órgãos da administração com competências regulamentares relativas",
+      "resumo": "Os órgãos da Administração com competências regulamentares relativas às atividades de administração de materiais, de obras e serviços e de licitações e contratos deverão: I – instituir instrumentos que permitam, preferencialmente, a centralização dos procedimentos de aquisição e contratação de bens e serviços; II – criar catálogo eletrônico de padronização de compras, serviços e obras, admitida a adoção",
+      "palavras_chave": [
+        "administracao",
+        "servicos",
+        "orgaos",
+        "competencias"
+      ]
+    },
+    {
+      "artigo": "art. 20",
+      "tema": "os itens de consumo adquiridos para suprir as",
+      "resumo": "Os itens de consumo adquiridos para suprir as demandas das estruturas da Administração",
+      "palavras_chave": [
+        "itens",
+        "consumo",
+        "adquiridos",
+        "suprir"
+      ]
+    },
+    {
+      "artigo": "art. 21",
+      "tema": "audiência e consulta pública",
+      "resumo": "A Administração poderá convocar, com antecedência mínima de 8 (oito) dias úteis, audiência pública, presencial ou a distância, na forma eletrônica, sobre licitação que pretenda realizar, com disponibilização prévia de informações pertinentes, inclusive de estudo técnico preliminar e elementos do edital de licitação, e com possibilidade de manifestação de todos os",
+      "palavras_chave": [
+        "audiencia",
+        "publica",
+        "licitacao",
+        "administracao"
+      ]
+    },
+    {
+      "artigo": "art. 22",
+      "tema": "matriz de alocação de riscos",
+      "resumo": "O edital poderá contemplar matriz de alocação de riscos entre o contratante e o contratado, hipótese em que o cálculo do valor estimado da contratação poderá considerar taxa de risco compatível com o objeto da licitação e com os riscos atribuídos ao contratado, de acordo",
+      "palavras_chave": [
+        "riscos",
+        "podera",
+        "matriz",
+        "alocacao"
+      ]
+    },
+    {
+      "artigo": "art. 23",
+      "tema": "o valor previamente estimado da contratação deverá ser",
+      "resumo": "O valor previamente estimado da contratação deverá ser compatível com os valores praticados pelo mercado, considerados os preços constantes de bancos de dados públicos e as quantidades a serem contratadas, observadas a potencial economia de escala e as peculiaridades",
+      "palavras_chave": [
+        "valor",
+        "previamente",
+        "estimado",
+        "contratacao"
+      ]
+    },
+    {
+      "artigo": "art. 24",
+      "tema": "desde que justificado, o orçamento estimado da contratação",
+      "resumo": "Desde que justificado, o orçamento estimado da contratação poderá ter caráter sigiloso, sem prejuízo da divulgação do detalhamento dos quantitativos e das demais informações necessárias para a elaboração das propostas, e, nesse caso: I – o sigilo não prevalecerá para os órgãos de controle interno e externo; II - (VETADO).",
+      "palavras_chave": [
+        "justificado",
+        "orcamento",
+        "estimado",
+        "contratacao"
+      ]
+    },
+    {
+      "artigo": "art. 25",
+      "tema": "o edital deverá conter o objeto da licitação",
+      "resumo": "O edital deverá conter o objeto da licitação e as regras relativas à convocação, ao julgamento, à habilitação, aos recursos e às penalidades da licitação, à fiscalização e à gestão do",
+      "palavras_chave": [
+        "licitacao",
+        "edital",
+        "devera",
+        "conter"
+      ]
+    },
+    {
+      "artigo": "art. 26",
+      "tema": "no processo de licitação, poderá ser estabelecida margem",
+      "resumo": "No processo de licitação, poderá ser estabelecida margem de preferência para: I – bens manufaturados e serviços nacionais que atendam a normas técnicas brasileiras; II – bens reciclados, recicláveis ou biodegradáveis, conforme regulamento.",
+      "palavras_chave": [
+        "processo",
+        "licitacao",
+        "podera",
+        "estabelecida"
+      ]
+    },
+    {
+      "artigo": "art. 27",
+      "tema": "será divulgada, em sítio eletrônico oficial, a cada",
+      "resumo": "Será divulgada, em sítio eletrônico oficial, a cada exercício financeiro, a relação de",
+      "palavras_chave": [
+        "sera",
+        "divulgada",
+        "sitio",
+        "eletronico"
+      ]
+    },
+    {
+      "artigo": "art. 28",
+      "tema": "são modalidades de licitação",
+      "resumo": "São modalidades de licitação: I – pregão; II – concorrência; III – concurso; IV – leilão; V – diálogo competitivo. § 1º Além das modalidades referidas no caput deste artigo, a Administração pode servir-se dos",
+      "palavras_chave": [
+        "modalidades",
+        "licitacao",
+        "pregao",
+        "concorrencia"
+      ]
+    },
+    {
+      "artigo": "art. 29",
+      "tema": "a concorrência e o pregão seguem o rito",
+      "resumo": "A concorrência e o pregão seguem o rito procedimental comum a que se refere o art. 17",
+      "palavras_chave": [
+        "concorrencia",
+        "pregao",
+        "seguem",
+        "rito"
+      ]
+    },
+    {
+      "artigo": "art. 30",
+      "tema": "concurso",
+      "resumo": "O concurso observará as regras e condições previstas em edital, que indicará: I – a qualificação exigida dos participantes; II – as diretrizes e formas de apresentação do trabalho; III – as condições de realização e o prêmio ou remuneração a ser concedida ao vencedor.",
+      "palavras_chave": [
+        "concurso",
+        "condicoes",
+        "observara",
+        "regras"
+      ]
+    },
+    {
+      "artigo": "art. 31",
+      "tema": "leilão",
+      "resumo": "O leilão poderá ser cometido a leiloeiro oficial ou a servidor designado pela autoridade",
+      "palavras_chave": [
+        "leilao",
+        "podera",
+        "cometido",
+        "leiloeiro"
+      ]
+    },
+    {
+      "artigo": "art. 32",
+      "tema": "a modalidade diálogo competitivo é restrita a contratações",
+      "resumo": "A modalidade diálogo competitivo é restrita a contratações em que a Administração: I – vise a contratar objeto que envolva as seguintes condições: a) inovação tecnológica ou técnica; b) impossibilidade de o órgão ou entidade ter sua necessidade satisfeita sem a adaptação de soluções disponíveis no mercado; e c) impossibilidade de as especificações técnicas serem definidas com precisão suficiente pela",
+      "palavras_chave": [
+        "modalidade",
+        "dialogo",
+        "competitivo",
+        "restrita"
+      ]
+    },
+    {
+      "artigo": "art. 33",
+      "tema": "o julgamento das propostas será realizado de acordo",
+      "resumo": "O julgamento das propostas será realizado de acordo com os seguintes critérios: I – menor preço; II – maior desconto; III– melhor técnica ou conteúdo artístico; IV – técnica e preço; V – maior lance, no caso de leilão; VI – maior retorno econômico.",
+      "palavras_chave": [
+        "maior",
+        "julgamento",
+        "propostas",
+        "sera"
+      ]
+    },
+    {
+      "artigo": "art. 34",
+      "tema": "critérios de julgamento",
+      "resumo": "O julgamento por menor preço ou maior desconto e, quando couber, por técnica e preço",
+      "palavras_chave": [
+        "julgamento",
+        "preco",
+        "menor",
+        "maior"
+      ]
+    },
+    {
+      "artigo": "art. 35",
+      "tema": "o julgamento por melhor técnica ou conteúdo artístico",
+      "resumo": "O julgamento por melhor técnica ou conteúdo artístico considerará exclusivamente as propostas técnicas ou artísticas apresentadas pelos licitantes, e o edital deverá definir o prêmio ou",
+      "palavras_chave": [
+        "julgamento",
+        "melhor",
+        "tecnica",
+        "conteudo"
+      ]
+    },
+    {
+      "artigo": "art. 36",
+      "tema": "o julgamento por técnica e preço considerará a",
+      "resumo": "O julgamento por técnica e preço considerará a maior pontuação obtida a partir da ponderação, segundo fatores objetivos previstos no edital, das notas atribuídas aos aspectos de",
+      "palavras_chave": [
+        "julgamento",
+        "tecnica",
+        "preco",
+        "considerara"
+      ]
+    },
+    {
+      "artigo": "art. 37",
+      "tema": "o julgamento por melhor técnica ou por técnica",
+      "resumo": "O julgamento por melhor técnica ou por técnica e preço deverá ser realizado por: I – verificação da capacitação e da experiência do licitante, comprovadas por meio da apresentação de atestados de obras, produtos ou serviços previamente realizados; II – atribuição de notas a quesitos de natureza qualitativa por banca designada para esse fim, de acordo com orientações e limites definidos em edital, considerados a",
+      "palavras_chave": [
+        "tecnica",
+        "julgamento",
+        "melhor",
+        "preco"
+      ]
+    },
+    {
+      "artigo": "art. 38",
+      "tema": "no julgamento por melhor técnica ou por técnica",
+      "resumo": "No julgamento por melhor técnica ou por técnica e preço, a obtenção de pontuação devido à capacitação técnico-profissional exigirá que a execução do respectivo contrato tenha",
+      "palavras_chave": [
+        "tecnica",
+        "julgamento",
+        "melhor",
+        "preco"
+      ]
+    },
+    {
+      "artigo": "art. 39",
+      "tema": "o julgamento por maior retorno econômico, utilizado exclusivamente",
+      "resumo": "O julgamento por maior retorno econômico, utilizado exclusivamente para a celebração",
+      "palavras_chave": [
+        "julgamento",
+        "maior",
+        "retorno",
+        "economico"
+      ]
+    },
+    {
+      "artigo": "art. 40",
+      "tema": "o planejamento de compras deverá considerar a expectativa",
+      "resumo": "O planejamento de compras deverá considerar a expectativa de consumo anual e observar o seguinte: I – condições de aquisição e pagamento semelhantes às do setor privado; II – processamento por meio de sistema de registro de preços, quando pertinente; III – determinação de unidades e quantidades a serem adquiridas em função de consumo e utilização prováveis, cuja estimativa será obtida, sempre que possível, mediante",
+      "palavras_chave": [
+        "planejamento",
+        "compras",
+        "devera",
+        "considerar"
+      ]
+    },
+    {
+      "artigo": "art. 41",
+      "tema": "no caso de licitação que envolva o fornecimento",
+      "resumo": "No caso de licitação que envolva o fornecimento de bens, a Administração poderá excepcionalmente: I – indicar uma ou mais marcas ou modelos, desde que formalmente justificado, nas seguintes hipóteses: a) em decorrência da necessidade de padronização do objeto; b) em decorrência da necessidade de manter a compatibilidade com plataformas e padrões já",
+      "palavras_chave": [
+        "caso",
+        "licitacao",
+        "envolva",
+        "fornecimento"
+      ]
+    },
+    {
+      "artigo": "art. 42",
+      "tema": "a prova de qualidade de produto apresentado pelos",
+      "resumo": "A prova de qualidade de produto apresentado pelos proponentes como similar ao das marcas eventualmente indicadas no edital será admitida por qualquer um dos seguintes meios: I – comprovação de que o produto está de acordo com as normas técnicas determinadas pelos",
+      "palavras_chave": [
+        "produto",
+        "pelos",
+        "prova",
+        "qualidade"
+      ]
+    },
+    {
+      "artigo": "art. 43",
+      "tema": "o processo de padronização deverá conter",
+      "resumo": "O processo de padronização deverá conter: I – parecer técnico sobre o produto, considerados especificações técnicas e estéticas, desempenho, análise de contratações anteriores, custo e condições de manutenção e garantia; II – despacho motivado da autoridade superior, com a adoção do padrão; III – síntese da justificativa e descrição sucinta do padrão definido, divulgadas em sítio eletrônico",
+      "palavras_chave": [
+        "processo",
+        "padronizacao",
+        "devera",
+        "conter"
+      ]
+    },
+    {
+      "artigo": "art. 44",
+      "tema": "estudo técnico preliminar",
+      "resumo": "Quando houver a possibilidade de compra ou de locação de bens, o estudo técnico preliminar deverá considerar os custos e os benefícios de cada opção, com indicação da alternativa",
+      "palavras_chave": [
+        "estudo",
+        "tecnico",
+        "preliminar",
+        "houver"
+      ]
+    },
+    {
+      "artigo": "art. 45",
+      "tema": "as licitações de obras e serviços de engenharia",
+      "resumo": "As licitações de obras e serviços de engenharia devem respeitar, especialmente, as normas relativas a: I – disposição final ambientalmente adequada dos resíduos sólidos gerados pelas obras contratadas; II – mitigação por condicionantes e compensação ambiental, que serão definidas no procedimento de licenciamento ambiental; III – utilização de produtos, de equipamentos e de serviços que, comprovadamente, favoreçam a",
+      "palavras_chave": [
+        "obras",
+        "servicos",
+        "licitacoes",
+        "engenharia"
+      ]
+    },
+    {
+      "artigo": "art. 46",
+      "tema": "na execução indireta de obras e serviços de",
+      "resumo": "Na execução indireta de obras e serviços de engenharia, são admitidos os seguintes regimes: I – empreitada por preço unitário; II – empreitada por preço global; III – empreitada integral; IV – contratação por tarefa; V – contratação integrada; VI – contratação semi-integrada; VII – fornecimento e prestação de serviço associado. § 1º É vedada a realização de obras e serviços de engenharia sem projeto executivo,",
+      "palavras_chave": [
+        "obras",
+        "servicos",
+        "empreitada",
+        "contratacao"
+      ]
+    },
+    {
+      "artigo": "art. 47",
+      "tema": "as licitações de serviços atenderão aos princípios",
+      "resumo": "As licitações de serviços atenderão aos princípios: I – da padronização, considerada a compatibilidade de especificações estéticas, técnicas ou de desempenho; II – do parcelamento, quando for tecnicamente viável e economicamente vantajoso. § 1º Na aplicação do princípio do parcelamento deverão ser considerados: I – a responsabilidade técnica; II – o custo para a Administração de vários contratos frente às vantagens",
+      "palavras_chave": [
+        "licitacoes",
+        "servicos",
+        "atenderao",
+        "principios"
+      ]
+    },
+    {
+      "artigo": "art. 48",
+      "tema": "poderão ser objeto de execução por terceiros as",
+      "resumo": "Poderão ser objeto de execução por terceiros as atividades materiais acessórias, instrumentais ou complementares aos assuntos que constituam área de competência legal do",
+      "palavras_chave": [
+        "poderao",
+        "objeto",
+        "execucao",
+        "terceiros"
+      ]
+    },
+    {
+      "artigo": "art. 49",
+      "tema": "a administração poderá, mediante justificativa expressa, contratar mais",
+      "resumo": "A Administração poderá, mediante justificativa expressa, contratar mais de uma empresa ou instituição para executar o mesmo serviço, desde que essa contratação não implique perda de economia de escala, quando: I – o objeto da contratação puder ser executado de forma concorrente e simultânea por mais de um contratado; e II – a múltipla execução for conveniente para atender à Administração.",
+      "palavras_chave": [
+        "administracao",
+        "podera",
+        "mediante",
+        "justificativa"
+      ]
+    },
+    {
+      "artigo": "art. 50",
+      "tema": "nas contratações de serviços com regime de dedicação",
+      "resumo": "Nas contratações de serviços com regime de dedicação exclusiva de mão de obra, o",
+      "palavras_chave": [
+        "contratacoes",
+        "servicos",
+        "regime",
+        "dedicacao"
+      ]
+    },
+    {
+      "artigo": "art. 51",
+      "tema": "ressalvado o disposto no inciso v do caput",
+      "resumo": "Ressalvado o disposto no inciso V do caput do art. 74 desta Lei, a locação de imóveis deverá ser precedida de licitação e avaliação prévia do bem, do seu estado de conservação, dos",
+      "palavras_chave": [
+        "ressalvado",
+        "locacao",
+        "imoveis",
+        "devera"
+      ]
+    },
+    {
+      "artigo": "art. 52",
+      "tema": "nas licitações de âmbito internacional, o edital deverá",
+      "resumo": "Nas licitações de âmbito internacional, o edital deverá ajustar-se às diretrizes da política",
+      "palavras_chave": [
+        "licitacoes",
+        "ambito",
+        "internacional",
+        "edital"
+      ]
+    },
+    {
+      "artigo": "art. 53",
+      "tema": "ao final da fase preparatória, o processo licitatório",
+      "resumo": "Ao final da fase preparatória, o processo licitatório seguirá para o órgão de",
+      "palavras_chave": [
+        "final",
+        "fase",
+        "preparatoria",
+        "processo"
+      ]
+    },
+    {
+      "artigo": "art. 54",
+      "tema": "a publicidade do edital de licitação será realizada",
+      "resumo": "A publicidade do edital de licitação será realizada mediante divulgação e manutenção do",
+      "palavras_chave": [
+        "publicidade",
+        "edital",
+        "licitacao",
+        "sera"
+      ]
+    },
+    {
+      "artigo": "art. 55",
+      "tema": "prazos de propostas",
+      "resumo": "Os prazos mínimos para apresentação de propostas e lances, contados a partir da data de divulgação do edital de licitação, são de: I – para aquisição de bens:",
+      "palavras_chave": [
+        "prazos",
+        "propostas",
+        "minimos",
+        "apresentacao"
+      ]
+    },
+    {
+      "artigo": "art. 56",
+      "tema": "o modo de disputa poderá ser, isolada ou",
+      "resumo": "O modo de disputa poderá ser, isolada ou conjuntamente: I – aberto, hipótese em que os licitantes apresentarão suas propostas por meio de lances públicos e sucessivos, crescentes ou decrescentes; II – fechado, hipótese em que as propostas permanecerão em sigilo até a data e hora designadas",
+      "palavras_chave": [
+        "modo",
+        "disputa",
+        "podera",
+        "isolada"
+      ]
+    },
+    {
+      "artigo": "art. 57",
+      "tema": "o edital de licitação poderá estabelecer intervalo mínimo",
+      "resumo": "O edital de licitação poderá estabelecer intervalo mínimo de diferença de valores entre os lances, que incidirá tanto em relação aos lances intermediários quanto em relação à proposta",
+      "palavras_chave": [
+        "edital",
+        "licitacao",
+        "podera",
+        "estabelecer"
+      ]
+    },
+    {
+      "artigo": "art. 58",
+      "tema": "poderá ser exigida, no momento da apresentação da",
+      "resumo": "Poderá ser exigida, no momento da apresentação da proposta, a comprovação do",
+      "palavras_chave": [
+        "podera",
+        "exigida",
+        "momento",
+        "apresentacao"
+      ]
+    },
+    {
+      "artigo": "art. 59",
+      "tema": "serão desclassificadas as propostas que",
+      "resumo": "Serão desclassificadas as propostas que: I – contiverem vícios insanáveis; II – não obedecerem às especificações técnicas pormenorizadas no edital; III – apresentarem preços inexequíveis ou permanecerem acima do orçamento estimado para a contratação; IV – não tiverem sua exequibilidade demonstrada, quando exigido pela Administração; V – apresentarem desconformidade com quaisquer outras exigências do edital, desde que",
+      "palavras_chave": [
+        "serao",
+        "desclassificadas",
+        "propostas",
+        "edital"
+      ]
+    },
+    {
+      "artigo": "art. 60",
+      "tema": "registro cadastral",
+      "resumo": "Em caso de empate entre duas ou mais propostas, serão utilizados os seguintes critérios de desempate, nesta ordem: I – disputa final, hipótese em que os licitantes empatados poderão apresentar nova proposta em ato contínuo à classificação; II – avaliação do desempenho contratual prévio dos licitantes, para a qual deverão preferencialmente ser utilizados registros cadastrais para efeito de atesto de cumprimento de",
+      "palavras_chave": [
+        "utilizados",
+        "licitantes",
+        "caso",
+        "empate"
+      ]
+    },
+    {
+      "artigo": "art. 61",
+      "tema": "definido o resultado do julgamento, a administração poderá",
+      "resumo": "Definido o resultado do julgamento, a Administração poderá negociar condições mais",
+      "palavras_chave": [
+        "definido",
+        "resultado",
+        "julgamento",
+        "administracao"
+      ]
+    },
+    {
+      "artigo": "art. 62",
+      "tema": "a habilitação é a fase da licitação em",
+      "resumo": "A habilitação é a fase da licitação em que se verifica o conjunto de informações e documentos necessários e suficientes para demonstrar a capacidade do licitante de realizar o objeto da licitação, dividindo-se em: I – jurídica; II – técnica; III – fiscal, social e trabalhista; IV – econômico-financeira.",
+      "palavras_chave": [
+        "licitacao",
+        "habilitacao",
+        "fase",
+        "verifica"
+      ]
+    },
+    {
+      "artigo": "art. 63",
+      "tema": "na fase de habilitação das licitações serão observadas",
+      "resumo": "Na fase de habilitação das licitações serão observadas as seguintes disposições: I – poderá ser exigida dos licitantes a declaração de que atendem aos requisitos de habilitação, e o declarante responderá pela veracidade das informações prestadas, na forma da lei;",
+      "palavras_chave": [
+        "habilitacao",
+        "fase",
+        "licitacoes",
+        "serao"
+      ]
+    },
+    {
+      "artigo": "art. 64",
+      "tema": "após a entrega dos documentos para habilitação, não",
+      "resumo": "Após a entrega dos documentos para habilitação, não será permitida a substituição ou a apresentação de novos documentos, salvo em sede de diligência, para: I – complementação de informações acerca dos documentos já apresentados pelos licitantes e desde que necessária para apurar fatos existentes à época da abertura do certame; II – atualização de documentos cuja validade tenha expirado após a data de recebimento das",
+      "palavras_chave": [
+        "documentos",
+        "apos",
+        "entrega",
+        "habilitacao"
+      ]
+    },
+    {
+      "artigo": "art. 65",
+      "tema": "as condições de habilitação serão definidas no edital",
+      "resumo": "As condições de habilitação serão definidas no edital. § 1º As empresas criadas no exercício financeiro da licitação deverão atender a todas as exigências da habilitação e ficarão autorizadas a substituir os demonstrativos contábeis pelo balanço de",
+      "palavras_chave": [
+        "habilitacao",
+        "condicoes",
+        "serao",
+        "definidas"
+      ]
+    },
+    {
+      "artigo": "art. 66",
+      "tema": "a habilitação jurídica visa a demonstrar a capacidade",
+      "resumo": "A habilitação jurídica visa a demonstrar a capacidade de o licitante exercer direitos e assumir obrigações, e a documentação a ser apresentada por ele limita-se à comprovação de existência jurídica da pessoa e, quando cabível, de autorização para o exercício da atividade a ser",
+      "palavras_chave": [
+        "juridica",
+        "habilitacao",
+        "visa",
+        "demonstrar"
+      ]
+    },
+    {
+      "artigo": "art. 67",
+      "tema": "a documentação relativa à qualificação técnico-profissional e técnico-",
+      "resumo": "A documentação relativa à qualificação técnico-profissional e técnico- operacional será restrita a: I – apresentação de profissional, devidamente registrado no conselho profissional competente, quando for o caso, detentor de atestado de responsabilidade técnica por execução de obra ou serviço de características semelhantes, para fins de contratação; II – certidões ou atestados, regularmente emitidos pelo conselho",
+      "palavras_chave": [
+        "tecnico",
+        "profissional",
+        "documentacao",
+        "relativa"
+      ]
+    },
+    {
+      "artigo": "art. 68",
+      "tema": "as habilitações fiscal, social e trabalhista serão aferidas",
+      "resumo": "As habilitações fiscal, social e trabalhista serão aferidas mediante a verificação dos seguintes requisitos: I – a inscrição no Cadastro de Pessoas Físicas (CPF) ou no Cadastro Nacional da Pessoa Jurídica",
+      "palavras_chave": [
+        "habilitacoes",
+        "fiscal",
+        "social",
+        "trabalhista"
+      ]
+    },
+    {
+      "artigo": "art. 69",
+      "tema": "a habilitação econômico-financeira visa a demonstrar a aptidão",
+      "resumo": "A habilitação econômico-financeira visa a demonstrar a aptidão econômica do licitante para cumprir as obrigações decorrentes do futuro contrato, devendo ser comprovada de forma objetiva, por coeficientes e índices econômicos previstos no edital, devidamente justificados no processo licitatório, e será restrita à apresentação da seguinte documentação: I – balanço patrimonial, demonstração de resultado de exercício e",
+      "palavras_chave": [
+        "habilitacao",
+        "economico",
+        "financeira",
+        "visa"
+      ]
+    },
+    {
+      "artigo": "art. 70",
+      "tema": "a documentação referida neste capítulo poderá ser",
+      "resumo": "A documentação referida neste Capítulo poderá ser: I – apresentada em original, por cópia ou por qualquer outro meio expressamente admitido pela",
+      "palavras_chave": [
+        "documentacao",
+        "referida",
+        "neste",
+        "capitulo"
+      ]
+    },
+    {
+      "artigo": "art. 71",
+      "tema": "encerramento da licitação",
+      "resumo": "Encerradas as fases de julgamento e habilitação, e exauridos os recursos administrativos, o processo licitatório será encaminhado à autoridade superior, que poderá: I – determinar o retorno dos autos para saneamento de irregularidades; II – revogar a licitação por motivo de conveniência e oportunidade; III – proceder à anulação da licitação, de ofício ou mediante provocação de terceiros, sempre que presente",
+      "palavras_chave": [
+        "licitacao",
+        "encerradas",
+        "fases",
+        "julgamento"
+      ]
+    },
+    {
+      "artigo": "art. 72",
+      "tema": "o processo de contratação direta, que compreende os",
+      "resumo": "O processo de contratação direta, que compreende os casos de inexigibilidade e de dispensa de licitação, deverá ser instruído com os seguintes documentos: I – documento de formalização de demanda e, se for o caso, estudo técnico preliminar, análise de riscos, termo de referência, projeto básico ou projeto executivo; II – estimativa de despesa, que deverá ser calculada na forma estabelecida no art. 23 desta Lei;",
+      "palavras_chave": [
+        "processo",
+        "contratacao",
+        "direta",
+        "compreende"
+      ]
+    },
+    {
+      "artigo": "art. 73",
+      "tema": "na hipótese de contratação direta indevida ocorrida com",
+      "resumo": "Na hipótese de contratação direta indevida ocorrida com dolo, fraude ou erro grosseiro, o contratado e o agente público responsável responderão solidariamente pelo dano causado ao",
+      "palavras_chave": [
+        "hipotese",
+        "contratacao",
+        "direta",
+        "indevida"
+      ]
+    },
+    {
+      "artigo": "art. 74",
+      "tema": "inexigibilidade de licitação",
+      "resumo": "É inexigível a licitação quando inviável a competição, em especial nos casos de:",
+      "palavras_chave": [
+        "licitacao",
+        "inexigivel",
+        "inviavel",
+        "competicao"
+      ]
+    },
+    {
+      "artigo": "art. 75",
+      "tema": "dispensa de licitação",
+      "resumo": "É dispensável a licitação:",
+      "palavras_chave": [
+        "licitacao",
+        "dispensavel",
+        "dispensa"
+      ]
+    },
+    {
+      "artigo": "art. 76",
+      "tema": "a alienação de bens da administração pública, subordinada",
+      "resumo": "A alienação de bens da Administração Pública, subordinada à existência de interesse público devidamente justificado, será precedida de avaliação e obedecerá às seguintes normas:",
+      "palavras_chave": [
+        "alienacao",
+        "bens",
+        "administracao",
+        "publica"
+      ]
+    },
+    {
+      "artigo": "art. 77",
+      "tema": "para a venda de bens imóveis, será concedido",
+      "resumo": "Para a venda de bens imóveis, será concedido direito de preferência ao licitante que,",
+      "palavras_chave": [
+        "venda",
+        "bens",
+        "imoveis",
+        "sera"
+      ]
+    },
+    {
+      "artigo": "art. 78",
+      "tema": "são procedimentos auxiliares das licitações e das contratações",
+      "resumo": "São procedimentos auxiliares das licitações e das contratações regidas por esta Lei: I – credenciamento; II – pré-qualificação; III – procedimento de manifestação de interesse; IV – sistema de registro de preços; V – registro cadastral. § 1º Os procedimentos auxiliares de que trata o caput deste artigo obedecerão a critérios claros e",
+      "palavras_chave": [
+        "procedimentos",
+        "auxiliares",
+        "licitacoes",
+        "contratacoes"
+      ]
+    },
+    {
+      "artigo": "art. 79",
+      "tema": "credenciamento",
+      "resumo": "O credenciamento poderá ser usado nas seguintes hipóteses de contratação: I – paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas; II – com seleção a critério de terceiros: caso em que a seleção do contratado está a cargo do beneficiário direto da prestação; III – em mercados fluidos: caso em que a flutuação constante do",
+      "palavras_chave": [
+        "caso",
+        "credenciamento",
+        "selecao",
+        "podera"
+      ]
+    },
+    {
+      "artigo": "art. 80",
+      "tema": "pré-qualificação",
+      "resumo": "A pré-qualificação é o procedimento técnico-administrativo para selecionar previamente: I – licitantes que reúnam condições de habilitação para participar de futura licitação ou de licitação vinculada a programas de obras ou de serviços objetivamente definidos; II – bens que atendam às exigências técnicas ou de qualidade estabelecidas pela Administração.",
+      "palavras_chave": [
+        "qualificacao",
+        "licitacao",
+        "procedimento",
+        "tecnico"
+      ]
+    },
+    {
+      "artigo": "art. 81",
+      "tema": "a administração poderá solicitar à iniciativa privada, mediante",
+      "resumo": "A Administração poderá solicitar à iniciativa privada, mediante procedimento aberto de manifestação de interesse a ser iniciado com a publicação de edital de chamamento público, a propositura e a realização de estudos, investigações, levantamentos e projetos de soluções",
+      "palavras_chave": [
+        "administracao",
+        "podera",
+        "solicitar",
+        "iniciativa"
+      ]
+    },
+    {
+      "artigo": "art. 82",
+      "tema": "o edital de licitação para registro de preços",
+      "resumo": "O edital de licitação para registro de preços observará as regras gerais desta Lei e deverá dispor sobre:",
+      "palavras_chave": [
+        "edital",
+        "licitacao",
+        "registro",
+        "precos"
+      ]
+    },
+    {
+      "artigo": "art. 83",
+      "tema": "a existência de preços registrados implicará compromisso de",
+      "resumo": "A existência de preços registrados implicará compromisso de fornecimento nas condições",
+      "palavras_chave": [
+        "existencia",
+        "precos",
+        "registrados",
+        "implicara"
+      ]
+    },
+    {
+      "artigo": "art. 84",
+      "tema": "o prazo de vigência da ata de registro",
+      "resumo": "O prazo de vigência da ata de registro de preços será de 1 (um) ano e poderá ser",
+      "palavras_chave": [
+        "prazo",
+        "vigencia",
+        "registro",
+        "precos"
+      ]
+    },
+    {
+      "artigo": "art. 85",
+      "tema": "a administração poderá contratar a execução de obras",
+      "resumo": "A Administração poderá contratar a execução de obras e serviços de engenharia pelo sistema de registro de preços, desde que atendidos os seguintes requisitos: I – existência de projeto padronizado, sem complexidade técnica e operacional; II – necessidade permanente ou frequente de obra ou serviço a ser contratado.",
+      "palavras_chave": [
+        "administracao",
+        "podera",
+        "contratar",
+        "execucao"
+      ]
+    },
+    {
+      "artigo": "art. 86",
+      "tema": "fase preparatória",
+      "resumo": "O órgão ou entidade gerenciadora deverá, na fase preparatória do processo licitatório, para fins de registro de preços, realizar procedimento público de intenção de registro de preços para, nos termos de regulamento, possibilitar, pelo prazo mínimo de 8 (oito) dias úteis, a participação de outros órgãos ou entidades na respectiva ata e determinar a estimativa total de",
+      "palavras_chave": [
+        "fase",
+        "preparatoria",
+        "registro",
+        "precos"
+      ]
+    },
+    {
+      "artigo": "art. 87",
+      "tema": "para os fins desta lei, os órgãos e",
+      "resumo": "Para os fins desta Lei, os órgãos e entidades da Administração Pública deverão utilizar o",
+      "palavras_chave": [
+        "fins",
+        "orgaos",
+        "entidades",
+        "administracao"
+      ]
+    },
+    {
+      "artigo": "art. 88",
+      "tema": "ao requerer, a qualquer tempo, inscrição no cadastro",
+      "resumo": "Ao requerer, a qualquer tempo, inscrição no cadastro ou a sua atualização, o interessado",
+      "palavras_chave": [
+        "requerer",
+        "qualquer",
+        "tempo",
+        "inscricao"
+      ]
+    },
+    {
+      "artigo": "art. 89",
+      "tema": "formalização dos contratos",
+      "resumo": "Os contratos de que trata esta Lei regular-se-ão pelas suas cláusulas e pelos preceitos de direito público, e a eles serão aplicados, supletivamente, os princípios da teoria geral dos",
+      "palavras_chave": [
+        "contratos",
+        "trata",
+        "regular",
+        "pelas"
+      ]
+    },
+    {
+      "artigo": "art. 90",
+      "tema": "a administração convocará regularmente o licitante vencedor para",
+      "resumo": "A Administração convocará regularmente o licitante vencedor para assinar o termo de contrato ou para aceitar ou retirar o instrumento equivalente, dentro do prazo e nas condições estabelecidas no edital de licitação, sob pena de decair o direito à contratação, sem prejuízo das",
+      "palavras_chave": [
+        "administracao",
+        "convocara",
+        "regularmente",
+        "licitante"
+      ]
+    },
+    {
+      "artigo": "art. 91",
+      "tema": "os contratos e seus aditamentos terão forma escrita",
+      "resumo": "Os contratos e seus aditamentos terão forma escrita e serão juntados ao processo que tiver dado origem à contratação, divulgados e mantidos à disposição do público em sítio eletrônico",
+      "palavras_chave": [
+        "contratos",
+        "aditamentos",
+        "terao",
+        "forma"
+      ]
+    },
+    {
+      "artigo": "art. 92",
+      "tema": "são necessárias em todo contrato cláusulas que estabeleçam",
+      "resumo": "São necessárias em todo contrato cláusulas que estabeleçam: I – o objeto e seus elementos característicos; II – a vinculação ao edital de licitação e à proposta do licitante vencedor ou ao ato que tiver autorizado a contratação direta e à respectiva proposta; III – a legislação aplicável à execução do contrato, inclusive quanto aos casos omissos; IV – o regime de execução ou a forma de fornecimento; V – o preço e as",
+      "palavras_chave": [
+        "contrato",
+        "necessarias",
+        "todo",
+        "clausulas"
+      ]
+    },
+    {
+      "artigo": "art. 93",
+      "tema": "nas contratações de projetos ou de serviços técnicos",
+      "resumo": "Nas contratações de projetos ou de serviços técnicos especializados, inclusive daqueles que contemplem o desenvolvimento de programas e aplicações de internet para computadores, máquinas, equipamentos e dispositivos de tratamento e de comunicação da informação (software)",
+      "palavras_chave": [
+        "contratacoes",
+        "projetos",
+        "servicos",
+        "tecnicos"
+      ]
+    },
+    {
+      "artigo": "art. 94",
+      "tema": "a divulgação no portal nacional de contratações públicas",
+      "resumo": "A divulgação no Portal Nacional de Contratações Públicas (PNCP) é condição indispensável para a eficácia do contrato e de seus aditamentos e deverá ocorrer nos seguintes prazos, contados da data de sua assinatura: I – 20 (vinte) dias úteis, no caso de licitação; II – 10 (dez) dias úteis, no caso de contratação direta. § 1º Os contratos celebrados em caso de urgência terão eficácia a partir de sua assinatura e",
+      "palavras_chave": [
+        "caso",
+        "divulgacao",
+        "portal",
+        "nacional"
+      ]
+    },
+    {
+      "artigo": "art. 95",
+      "tema": "o instrumento de contrato é obrigatório, salvo nas",
+      "resumo": "O instrumento de contrato é obrigatório, salvo nas seguintes hipóteses, em que a",
+      "palavras_chave": [
+        "instrumento",
+        "contrato",
+        "obrigatorio",
+        "salvo"
+      ]
+    },
+    {
+      "artigo": "art. 96",
+      "tema": "a critério da autoridade competente, em cada caso,",
+      "resumo": "A critério da autoridade competente, em cada caso, poderá ser exigida, mediante",
+      "palavras_chave": [
+        "criterio",
+        "autoridade",
+        "competente",
+        "cada"
+      ]
+    },
+    {
+      "artigo": "art. 97",
+      "tema": "o seguro-garantia tem por objetivo garantir o fiel",
+      "resumo": "O seguro-garantia tem por objetivo garantir o fiel cumprimento das obrigações assumidas",
+      "palavras_chave": [
+        "seguro",
+        "garantia",
+        "objetivo",
+        "garantir"
+      ]
+    },
+    {
+      "artigo": "art. 98",
+      "tema": "nas contratações de obras, serviços e fornecimentos, a",
+      "resumo": "Nas contratações de obras, serviços e fornecimentos, a garantia poderá ser de até 5%",
+      "palavras_chave": [
+        "contratacoes",
+        "obras",
+        "servicos",
+        "fornecimentos"
+      ]
+    },
+    {
+      "artigo": "art. 99",
+      "tema": "nas contratações de obras e serviços de engenharia",
+      "resumo": "Nas contratações de obras e serviços de engenharia de grande vulto, poderá ser exigida a prestação de garantia, na modalidade seguro-garantia, com cláusula de retomada prevista no",
+      "palavras_chave": [
+        "contratacoes",
+        "obras",
+        "servicos",
+        "engenharia"
+      ]
+    },
+    {
+      "artigo": "art. 100",
+      "tema": "a garantia prestada pelo contratado será liberada ou",
+      "resumo": "A garantia prestada pelo contratado será liberada ou restituída após a fiel execução do",
+      "palavras_chave": [
+        "garantia",
+        "prestada",
+        "pelo",
+        "contratado"
+      ]
+    },
+    {
+      "artigo": "art. 101",
+      "tema": "nos casos de contratos que impliquem a entrega",
+      "resumo": "Nos casos de contratos que impliquem a entrega de bens pela Administração, dos quais",
+      "palavras_chave": [
+        "casos",
+        "contratos",
+        "impliquem",
+        "entrega"
+      ]
+    },
+    {
+      "artigo": "art. 102",
+      "tema": "na contratação de obras e serviços de engenharia,",
+      "resumo": "Na contratação de obras e serviços de engenharia, o edital poderá exigir a prestação da garantia na modalidade seguro-garantia e prever a obrigação de a seguradora, em caso de inadimplemento pelo contratado, assumir a execução e concluir o objeto do contrato, hipótese em que: I – a seguradora deverá firmar o contrato, inclusive os aditivos, como interveniente anuente e poderá: a) ter livre acesso às instalações em",
+      "palavras_chave": [
+        "contratacao",
+        "obras",
+        "servicos",
+        "engenharia"
+      ]
+    },
+    {
+      "artigo": "art. 103",
+      "tema": "o contrato poderá identificar os riscos contratuais previstos",
+      "resumo": "O contrato poderá identificar os riscos contratuais previstos e presumíveis e prever matriz de alocação de riscos, alocando-os entre contratante e contratado, mediante indicação daqueles a serem assumidos pelo setor público ou pelo setor privado ou daqueles a serem",
+      "palavras_chave": [
+        "riscos",
+        "contrato",
+        "podera",
+        "identificar"
+      ]
+    },
+    {
+      "artigo": "art. 104",
+      "tema": "prerrogativas da administração",
+      "resumo": "O regime jurídico dos contratos instituído por esta Lei confere à Administração, em relação a eles, as prerrogativas de: I – modificá-los, unilateralmente, para melhor adequação às finalidades de interesse público, respeitados os direitos do contratado; II – extingui-los, unilateralmente, nos casos especificados nesta Lei; III – fiscalizar sua execução; IV – aplicar sanções motivadas pela inexecução total ou parcial",
+      "palavras_chave": [
+        "administracao",
+        "prerrogativas",
+        "unilateralmente",
+        "regime"
+      ]
+    },
+    {
+      "artigo": "art. 105",
+      "tema": "duração dos contratos",
+      "resumo": "A duração dos contratos regidos por esta Lei será a prevista em edital, e deverão ser observadas, no momento da contratação e a cada exercício financeiro, a disponibilidade de créditos orçamentários, bem como a previsão no plano plurianual, quando ultrapassar 1 (um)",
+      "palavras_chave": [
+        "duracao",
+        "contratos",
+        "regidos",
+        "sera"
+      ]
+    },
+    {
+      "artigo": "art. 106",
+      "tema": "a administração poderá celebrar contratos com prazo de",
+      "resumo": "A Administração poderá celebrar contratos com prazo de até 5 (cinco) anos nas hipóteses de serviços e fornecimentos contínuos, observadas as seguintes diretrizes: I – a autoridade competente do órgão ou entidade contratante deverá atestar a maior vantagem econômica vislumbrada em razão da contratação plurianual; II – a Administração deverá atestar, no início da contratação e de cada exercício, a existência de",
+      "palavras_chave": [
+        "administracao",
+        "podera",
+        "celebrar",
+        "contratos"
+      ]
+    },
+    {
+      "artigo": "art. 107",
+      "tema": "os contratos de serviços e fornecimentos contínuos poderão",
+      "resumo": "Os contratos de serviços e fornecimentos contínuos poderão ser prorrogados sucessivamente, respeitada a vigência máxima decenal, desde que haja previsão em edital e que a autoridade competente ateste que as condições e os preços permanecem vantajosos para a",
+      "palavras_chave": [
+        "contratos",
+        "servicos",
+        "fornecimentos",
+        "continuos"
+      ]
+    },
+    {
+      "artigo": "art. 108",
+      "tema": "a administração poderá celebrar contratos com prazo de",
+      "resumo": "A Administração poderá celebrar contratos com prazo de até 10 (dez) anos nas hipóteses",
+      "palavras_chave": [
+        "administracao",
+        "podera",
+        "celebrar",
+        "contratos"
+      ]
+    },
+    {
+      "artigo": "art. 109",
+      "tema": "a administração poderá estabelecer a vigência por prazo",
+      "resumo": "A Administração poderá estabelecer a vigência por prazo indeterminado nos contratos em que seja usuária de serviço público oferecido em regime de monopólio, desde que comprovada, a cada exercício financeiro, a existência de créditos orçamentários vinculados à",
+      "palavras_chave": [
+        "administracao",
+        "podera",
+        "estabelecer",
+        "vigencia"
+      ]
+    },
+    {
+      "artigo": "art. 110",
+      "tema": "na contratação que gere receita e no contrato",
+      "resumo": "Na contratação que gere receita e no contrato de eficiência que gere economia para a",
+      "palavras_chave": [
+        "gere",
+        "contratacao",
+        "receita",
+        "contrato"
+      ]
+    },
+    {
+      "artigo": "art. 111",
+      "tema": "na contratação que previr a conclusão de escopo",
+      "resumo": "Na contratação que previr a conclusão de escopo predefinido, o prazo de vigência será automaticamente prorrogado quando seu objeto não for concluído no período firmado no",
+      "palavras_chave": [
+        "contratacao",
+        "previr",
+        "conclusao",
+        "escopo"
+      ]
+    },
+    {
+      "artigo": "art. 112",
+      "tema": "os prazos contratuais previstos nesta lei não excluem",
+      "resumo": "Os prazos contratuais previstos nesta Lei não excluem nem revogam os prazos",
+      "palavras_chave": [
+        "prazos",
+        "contratuais",
+        "previstos",
+        "nesta"
+      ]
+    },
+    {
+      "artigo": "art. 113",
+      "tema": "o contrato firmado sob o regime de fornecimento",
+      "resumo": "O contrato firmado sob o regime de fornecimento e prestação de serviço associado terá sua vigência máxima definida pela soma do prazo relativo ao fornecimento inicial ou à entrega da obra com o prazo relativo ao serviço de operação e manutenção, este limitado a 5 (cinco) anos",
+      "palavras_chave": [
+        "fornecimento",
+        "contrato",
+        "firmado",
+        "regime"
+      ]
+    },
+    {
+      "artigo": "art. 114",
+      "tema": "o contrato que previr a operação continuada de",
+      "resumo": "O contrato que previr a operação continuada de sistemas estruturantes de tecnologia",
+      "palavras_chave": [
+        "contrato",
+        "previr",
+        "operacao",
+        "continuada"
+      ]
+    },
+    {
+      "artigo": "art. 115",
+      "tema": "execução dos contratos",
+      "resumo": "O contrato deverá ser executado fielmente pelas partes, de acordo com as cláusulas",
+      "palavras_chave": [
+        "contrato",
+        "devera",
+        "executado",
+        "fielmente"
+      ]
+    },
+    {
+      "artigo": "art. 116",
+      "tema": "ao longo de toda a execução do contrato,",
+      "resumo": "Ao longo de toda a execução do contrato, o contratado deverá cumprir a reserva de",
+      "palavras_chave": [
+        "longo",
+        "toda",
+        "execucao",
+        "contrato"
+      ]
+    },
+    {
+      "artigo": "art. 117",
+      "tema": "a execução do contrato deverá ser acompanhada e",
+      "resumo": "A execução do contrato deverá ser acompanhada e fiscalizada por 1 (um) ou mais fiscais",
+      "palavras_chave": [
+        "execucao",
+        "contrato",
+        "devera",
+        "acompanhada"
+      ]
+    },
+    {
+      "artigo": "art. 118",
+      "tema": "o contratado deverá manter preposto aceito pela administração",
+      "resumo": "O contratado deverá manter preposto aceito pela Administração no local da obra ou do",
+      "palavras_chave": [
+        "contratado",
+        "devera",
+        "manter",
+        "preposto"
+      ]
+    },
+    {
+      "artigo": "art. 119",
+      "tema": "o contratado será obrigado a reparar, corrigir, remover,",
+      "resumo": "O contratado será obrigado a reparar, corrigir, remover, reconstruir ou substituir, a suas expensas, no total ou em parte, o objeto do contrato em que se verificarem vícios, defeitos ou",
+      "palavras_chave": [
+        "contratado",
+        "sera",
+        "obrigado",
+        "reparar"
+      ]
+    },
+    {
+      "artigo": "art. 120",
+      "tema": "o contratado será responsável pelos danos causados diretamente",
+      "resumo": "O contratado será responsável pelos danos causados diretamente à Administração ou a terceiros em razão da execução do contrato, e não excluirá nem reduzirá essa responsabilidade",
+      "palavras_chave": [
+        "contratado",
+        "sera",
+        "responsavel",
+        "pelos"
+      ]
+    },
+    {
+      "artigo": "art. 121",
+      "tema": "somente o contratado será responsável pelos encargos trabalhistas,",
+      "resumo": "Somente o contratado será responsável pelos encargos trabalhistas, previdenciários,",
+      "palavras_chave": [
+        "somente",
+        "contratado",
+        "sera",
+        "responsavel"
+      ]
+    },
+    {
+      "artigo": "art. 122",
+      "tema": "na execução do contrato e sem prejuízo das",
+      "resumo": "Na execução do contrato e sem prejuízo das responsabilidades contratuais e legais, o contratado poderá subcontratar partes da obra, do serviço ou do fornecimento até o limite",
+      "palavras_chave": [
+        "execucao",
+        "contrato",
+        "prejuizo",
+        "responsabilidades"
+      ]
+    },
+    {
+      "artigo": "art. 123",
+      "tema": "a administração terá o dever de explicitamente emitir",
+      "resumo": "A Administração terá o dever de explicitamente emitir decisão sobre todas as",
+      "palavras_chave": [
+        "administracao",
+        "tera",
+        "dever",
+        "explicitamente"
+      ]
+    },
+    {
+      "artigo": "art. 124",
+      "tema": "os contratos regidos por esta lei poderão ser",
+      "resumo": "Os contratos regidos por esta Lei poderão ser alterados, com as devidas justificativas, nos seguintes casos: I – unilateralmente pela Administração: a) quando houver modificação do projeto ou das especificações, para melhor adequação técnica a seus objetivos; b) quando for necessária a modificação do valor contratual em decorrência de acréscimo ou",
+      "palavras_chave": [
+        "contratos",
+        "regidos",
+        "poderao",
+        "modificacao"
+      ]
+    },
+    {
+      "artigo": "art. 125",
+      "tema": "nas alterações unilaterais a que se refere o",
+      "resumo": "Nas alterações unilaterais a que se refere o inciso I do caput do art. 124 desta Lei, o contratado será obrigado a aceitar, nas mesmas condições contratuais, acréscimos ou supressões",
+      "palavras_chave": [
+        "alteracoes",
+        "unilaterais",
+        "refere",
+        "contratado"
+      ]
+    },
+    {
+      "artigo": "art. 126",
+      "tema": "as alterações unilaterais a que se refere o",
+      "resumo": "As alterações unilaterais a que se refere o inciso I do caput do art. 124 desta Lei não",
+      "palavras_chave": [
+        "alteracoes",
+        "unilaterais",
+        "refere"
+      ]
+    },
+    {
+      "artigo": "art. 127",
+      "tema": "se o contrato não contemplar preços unitários para",
+      "resumo": "Se o contrato não contemplar preços unitários para obras ou serviços cujo aditamento se fizer necessário, esses serão fixados por meio da aplicação da relação geral entre os valores da",
+      "palavras_chave": [
+        "contrato",
+        "contemplar",
+        "precos",
+        "unitarios"
+      ]
+    },
+    {
+      "artigo": "art. 128",
+      "tema": "nas contratações de obras e serviços de engenharia,",
+      "resumo": "Nas contratações de obras e serviços de engenharia, a diferença percentual entre o valor global do contrato e o preço global de referência não poderá ser reduzida em favor do contratado",
+      "palavras_chave": [
+        "contratacoes",
+        "obras",
+        "servicos",
+        "engenharia"
+      ]
+    },
+    {
+      "artigo": "art. 129",
+      "tema": "nas alterações contratuais para supressão de obras, bens",
+      "resumo": "Nas alterações contratuais para supressão de obras, bens ou serviços, se o contratado já houver adquirido os materiais e os colocado no local dos trabalhos, estes deverão ser pagos pela",
+      "palavras_chave": [
+        "alteracoes",
+        "contratuais",
+        "supressao",
+        "obras"
+      ]
+    },
+    {
+      "artigo": "art. 130",
+      "tema": "caso haja alteração unilateral do contrato que aumente",
+      "resumo": "Caso haja alteração unilateral do contrato que aumente ou diminua os encargos do",
+      "palavras_chave": [
+        "caso",
+        "haja",
+        "alteracao",
+        "unilateral"
+      ]
+    },
+    {
+      "artigo": "art. 131",
+      "tema": "a extinção do contrato não configurará óbice para",
+      "resumo": "A extinção do contrato não configurará óbice para o reconhecimento do desequilíbrio econômico-financeiro, hipótese em que será concedida indenização por meio de termo",
+      "palavras_chave": [
+        "extincao",
+        "contrato",
+        "configurara",
+        "obice"
+      ]
+    },
+    {
+      "artigo": "art. 132",
+      "tema": "a formalização do termo aditivo é condição para",
+      "resumo": "A formalização do termo aditivo é condição para a execução, pelo contratado, das",
+      "palavras_chave": [
+        "formalizacao",
+        "termo",
+        "aditivo",
+        "condicao"
+      ]
+    },
+    {
+      "artigo": "art. 133",
+      "tema": "nas hipóteses em que for adotada a contratação",
+      "resumo": "Nas hipóteses em que for adotada a contratação integrada ou semi-integrada, é vedada a alteração dos valores contratuais, exceto nos seguintes casos: I – para restabelecimento do equilíbrio econômico-financeiro decorrente de caso fortuito ou força maior; II – por necessidade de alteração do projeto ou das especificações para melhor adequação",
+      "palavras_chave": [
+        "hipoteses",
+        "adotada",
+        "contratacao",
+        "integrada"
+      ]
+    },
+    {
+      "artigo": "art. 134",
+      "tema": "os preços contratados serão alterados, para mais ou",
+      "resumo": "Os preços contratados serão alterados, para mais ou para menos, conforme o caso, se houver, após a data da apresentação da proposta, criação, alteração ou extinção de quaisquer tributos ou encargos legais ou a superveniência de disposições legais, com comprovada",
+      "palavras_chave": [
+        "precos",
+        "contratados",
+        "serao",
+        "alterados"
+      ]
+    },
+    {
+      "artigo": "art. 135",
+      "tema": "os preços dos contratos para serviços contínuos com",
+      "resumo": "Os preços dos contratos para serviços contínuos com regime de dedicação exclusiva de mão de obra ou com predominância de mão de obra serão repactuados para manutenção do equilíbrio econômico-financeiro, mediante demonstração analítica da variação dos custos contratuais, com data vinculada: I – à da apresentação da proposta, para custos decorrentes do mercado; II – ao acordo, à convenção coletiva ou ao dissídio",
+      "palavras_chave": [
+        "precos",
+        "contratos",
+        "servicos",
+        "continuos"
+      ]
+    },
+    {
+      "artigo": "art. 136",
+      "tema": "registros que não caracterizam alteração do contrato podem",
+      "resumo": "Registros que não caracterizam alteração do contrato podem ser realizados por simples apostila, dispensada a celebração de termo aditivo, como nas seguintes situações: I – variação do valor contratual para fazer face ao reajuste ou à repactuação de preços previstos no próprio contrato; II – atualizações, compensações ou penalizações financeiras decorrentes das condições de pagamento previstas no contrato; III –",
+      "palavras_chave": [
+        "contrato",
+        "registros",
+        "caracterizam",
+        "alteracao"
+      ]
+    },
+    {
+      "artigo": "art. 137",
+      "tema": "extinção dos contratos",
+      "resumo": "Constituirão motivos para extinção do contrato, a qual deverá ser formalmente motivada nos autos do processo, assegurados o contraditório e a ampla defesa, as seguintes situações: I – não cumprimento ou cumprimento irregular de normas editalícias ou de cláusulas contratuais, de especificações, de projetos ou de prazos; II – desatendimento das determinações regulares emitidas pela autoridade designada para acompanhar",
+      "palavras_chave": [
+        "extincao",
+        "cumprimento",
+        "constituirao",
+        "motivos"
+      ]
+    },
+    {
+      "artigo": "art. 138",
+      "tema": "a extinção do contrato poderá ser",
+      "resumo": "A extinção do contrato poderá ser: I – determinada por ato unilateral e escrito da Administração, exceto no caso de descumprimento decorrente de sua própria conduta; II – consensual, por acordo entre as partes, por conciliação, por mediação ou por comitê de",
+      "palavras_chave": [
+        "extincao",
+        "contrato",
+        "podera",
+        "determinada"
+      ]
+    },
+    {
+      "artigo": "art. 139",
+      "tema": "a extinção determinada por ato unilateral da administração",
+      "resumo": "A extinção determinada por ato unilateral da Administração poderá acarretar, sem",
+      "palavras_chave": [
+        "extincao",
+        "determinada",
+        "unilateral",
+        "administracao"
+      ]
+    },
+    {
+      "artigo": "art. 140",
+      "tema": "o objeto do contrato será recebido",
+      "resumo": "O objeto do contrato será recebido: I – em se tratando de obras e serviços: a) provisoriamente, pelo responsável por seu acompanhamento e fiscalização, mediante termo detalhado, quando verificado o cumprimento das exigências de caráter técnico; b) definitivamente, por servidor ou comissão designada pela autoridade competente, mediante termo detalhado que comprove o atendimento das exigências contratuais; II – em se",
+      "palavras_chave": [
+        "objeto",
+        "contrato",
+        "sera",
+        "recebido"
+      ]
+    },
+    {
+      "artigo": "art. 141",
+      "tema": "pagamentos",
+      "resumo": "No dever de pagamento pela Administração, será observada a ordem cronológica para cada fonte diferenciada de recursos, subdividida nas seguintes categorias de contratos: I – fornecimento de bens; II – locações; III – prestação de serviços; IV – realização de obras. § 1º A ordem cronológica referida no caput deste artigo poderá ser alterada, mediante prévia justificativa da autoridade competente e posterior",
+      "palavras_chave": [
+        "ordem",
+        "cronologica",
+        "dever",
+        "pagamento"
+      ]
+    },
+    {
+      "artigo": "art. 142",
+      "tema": "disposição expressa no edital ou no contrato poderá",
+      "resumo": "Disposição expressa no edital ou no contrato poderá prever pagamento em conta",
+      "palavras_chave": [
+        "disposicao",
+        "expressa",
+        "edital",
+        "contrato"
+      ]
+    },
+    {
+      "artigo": "art. 143",
+      "tema": "no caso de controvérsia sobre a execução do",
+      "resumo": "No caso de controvérsia sobre a execução do objeto, quanto a dimensão, qualidade e",
+      "palavras_chave": [
+        "caso",
+        "controversia",
+        "execucao",
+        "objeto"
+      ]
+    },
+    {
+      "artigo": "art. 144",
+      "tema": "na contratação de obras, fornecimentos e serviços, inclusive",
+      "resumo": "Na contratação de obras, fornecimentos e serviços, inclusive de engenharia, poderá ser estabelecida remuneração variável vinculada ao desempenho do contratado, com base em metas, padrões de qualidade, critérios de sustentabilidade ambiental e prazos de entrega definidos",
+      "palavras_chave": [
+        "contratacao",
+        "obras",
+        "fornecimentos",
+        "servicos"
+      ]
+    },
+    {
+      "artigo": "art. 145",
+      "tema": "não será permitido pagamento antecipado, parcial ou total,",
+      "resumo": "Não será permitido pagamento antecipado, parcial ou total, relativo a parcelas",
+      "palavras_chave": [
+        "sera",
+        "permitido",
+        "pagamento",
+        "antecipado"
+      ]
+    },
+    {
+      "artigo": "art. 146",
+      "tema": "no ato de liquidação da despesa, os serviços",
+      "resumo": "No ato de liquidação da despesa, os serviços de contabilidade comunicarão aos órgãos da administração tributária as características da despesa e os valores pagos, conforme o disposto",
+      "palavras_chave": [
+        "despesa",
+        "liquidacao",
+        "servicos",
+        "contabilidade"
+      ]
+    },
+    {
+      "artigo": "art. 147",
+      "tema": "nulidade dos contratos",
+      "resumo": "Constatada irregularidade no procedimento licitatório ou na execução contratual, caso não seja possível o saneamento, a decisão sobre a suspensão da execução ou sobre a declaração de nulidade do contrato somente será adotada na hipótese em que se revelar medida de interesse público, com avaliação, entre outros, dos seguintes aspectos: I – impactos econômicos e financeiros decorrentes do atraso na fruição dos",
+      "palavras_chave": [
+        "execucao",
+        "nulidade",
+        "constatada",
+        "irregularidade"
+      ]
+    },
+    {
+      "artigo": "art. 148",
+      "tema": "a declaração de nulidade do contrato administrativo requererá",
+      "resumo": "A declaração de nulidade do contrato administrativo requererá análise prévia do",
+      "palavras_chave": [
+        "declaracao",
+        "nulidade",
+        "contrato",
+        "administrativo"
+      ]
+    },
+    {
+      "artigo": "art. 149",
+      "tema": "a nulidade não exonerará a administração do dever",
+      "resumo": "A nulidade não exonerará a Administração do dever de indenizar o contratado pelo que houver executado até a data em que for declarada ou tornada eficaz, bem como por outros prejuízos regularmente comprovados, desde que não lhe seja imputável, e será promovida a",
+      "palavras_chave": [
+        "nulidade",
+        "exonerara",
+        "administracao",
+        "dever"
+      ]
+    },
+    {
+      "artigo": "art. 150",
+      "tema": "nenhuma contratação será feita sem a caracterização adequada",
+      "resumo": "Nenhuma contratação será feita sem a caracterização adequada de seu objeto e sem a indicação dos créditos orçamentários para pagamento das parcelas contratuais vincendas no exercício em que for realizada a contratação, sob pena de nulidade do ato e de responsabilização",
+      "palavras_chave": [
+        "contratacao",
+        "nenhuma",
+        "sera",
+        "feita"
+      ]
+    },
+    {
+      "artigo": "art. 151",
+      "tema": "nas contratações regidas por esta lei, poderão ser",
+      "resumo": "Nas contratações regidas por esta Lei, poderão ser utilizados meios alternativos de prevenção e resolução de controvérsias, notadamente a conciliação, a mediação, o comitê de",
+      "palavras_chave": [
+        "contratacoes",
+        "regidas",
+        "poderao",
+        "utilizados"
+      ]
+    },
+    {
+      "artigo": "art. 152",
+      "tema": "a arbitragem será sempre de direito e observará",
+      "resumo": "A arbitragem será sempre de direito e observará o princípio da publicidade.",
+      "palavras_chave": [
+        "arbitragem",
+        "sera",
+        "sempre",
+        "direito"
+      ]
+    },
+    {
+      "artigo": "art. 153",
+      "tema": "os contratos poderão ser aditados para permitir a",
+      "resumo": "Os contratos poderão ser aditados para permitir a adoção dos meios alternativos de",
+      "palavras_chave": [
+        "contratos",
+        "poderao",
+        "aditados",
+        "permitir"
+      ]
+    },
+    {
+      "artigo": "art. 154",
+      "tema": "o processo de escolha dos árbitros, dos colegiados",
+      "resumo": "O processo de escolha dos árbitros, dos colegiados arbitrais e dos comitês de resolução",
+      "palavras_chave": [
+        "processo",
+        "escolha",
+        "arbitros",
+        "colegiados"
+      ]
+    },
+    {
+      "artigo": "art. 155",
+      "tema": "o licitante ou o contratado será responsabilizado administrativamente",
+      "resumo": "O licitante ou o contratado será responsabilizado administrativamente pelas seguintes infrações: I – dar causa à inexecução parcial do contrato; II – dar causa à inexecução parcial do contrato que cause grave dano à Administração, ao funcionamento dos serviços públicos ou ao interesse coletivo; III – dar causa à inexecução total do contrato; IV – deixar de entregar a documentação exigida para o certame; V – não",
+      "palavras_chave": [
+        "causa",
+        "inexecucao",
+        "contrato",
+        "licitante"
+      ]
+    },
+    {
+      "artigo": "art. 156",
+      "tema": "serão aplicadas ao responsável pelas infrações administrativas previstas",
+      "resumo": "Serão aplicadas ao responsável pelas infrações administrativas previstas nesta Lei as seguintes sanções: I – advertência; II – multa; III – impedimento de licitar e contratar; IV – declaração de inidoneidade para licitar ou contratar. § 1º Na aplicação das sanções serão considerados: I – a natureza e a gravidade da infração cometida; II – as peculiaridades do caso concreto; III – as circunstâncias agravantes ou",
+      "palavras_chave": [
+        "serao",
+        "aplicadas",
+        "responsavel",
+        "pelas"
+      ]
+    },
+    {
+      "artigo": "art. 157",
+      "tema": "na aplicação da sanção prevista no inciso ii",
+      "resumo": "Na aplicação da sanção prevista no inciso II do caput do art. 156 desta Lei, será facultada",
+      "palavras_chave": [
+        "aplicacao",
+        "sancao",
+        "prevista",
+        "sera"
+      ]
+    },
+    {
+      "artigo": "art. 158",
+      "tema": "a aplicação das sanções previstas nos incisos iii",
+      "resumo": "A aplicação das sanções previstas nos incisos III e IV do caput do art. 156 desta Lei requererá a instauração de processo de responsabilização, a ser conduzido por comissão composta de 2 (dois) ou mais servidores estáveis, que avaliará fatos e circunstâncias conhecidos e intimará o licitante ou o contratado para, no prazo de 15 (quinze) dias úteis, contado da data de",
+      "palavras_chave": [
+        "aplicacao",
+        "sancoes",
+        "previstas",
+        "requerera"
+      ]
+    },
+    {
+      "artigo": "art. 159",
+      "tema": "os atos previstos como infrações administrativas nesta lei",
+      "resumo": "Os atos previstos como infrações administrativas nesta Lei ou em outras leis de licitações",
+      "palavras_chave": [
+        "atos",
+        "previstos",
+        "infracoes",
+        "administrativas"
+      ]
+    },
+    {
+      "artigo": "art. 160",
+      "tema": "a personalidade jurídica poderá ser desconsiderada sempre que",
+      "resumo": "A personalidade jurídica poderá ser desconsiderada sempre que utilizada com abuso do",
+      "palavras_chave": [
+        "personalidade",
+        "juridica",
+        "podera",
+        "desconsiderada"
+      ]
+    },
+    {
+      "artigo": "art. 161",
+      "tema": "os órgãos e entidades dos poderes executivo, legislativo",
+      "resumo": "Os órgãos e entidades dos Poderes Executivo, Legislativo e Judiciário de todos os entes federativos deverão, no prazo máximo 15 (quinze) dias úteis, contado da data de aplicação da sanção, informar e manter atualizados os dados relativos às sanções por eles aplicadas, para fins",
+      "palavras_chave": [
+        "orgaos",
+        "entidades",
+        "poderes",
+        "executivo"
+      ]
+    },
+    {
+      "artigo": "art. 162",
+      "tema": "o atraso injustificado na execução do contrato sujeitará",
+      "resumo": "O atraso injustificado na execução do contrato sujeitará o contratado a multa de mora,",
+      "palavras_chave": [
+        "atraso",
+        "injustificado",
+        "execucao",
+        "contrato"
+      ]
+    },
+    {
+      "artigo": "art. 163",
+      "tema": "é admitida a reabilitação do licitante ou contratado",
+      "resumo": "É admitida a reabilitação do licitante ou contratado perante a própria autoridade que aplicou a penalidade, exigidos, cumulativamente: I – reparação integral do dano causado à Administração Pública; II – pagamento da multa; III – transcurso do prazo mínimo de 1 (um) ano da aplicação da penalidade, no caso de impedimento de licitar e contratar, ou de 3 (três) anos da aplicação da penalidade, no caso de declaração de",
+      "palavras_chave": [
+        "penalidade",
+        "admitida",
+        "reabilitacao",
+        "licitante"
+      ]
+    },
+    {
+      "artigo": "art. 164",
+      "tema": "qualquer pessoa é parte legítima para impugnar edital",
+      "resumo": "Qualquer pessoa é parte legítima para impugnar edital de licitação por irregularidade na",
+      "palavras_chave": [
+        "qualquer",
+        "pessoa",
+        "parte",
+        "legitima"
+      ]
+    },
+    {
+      "artigo": "art. 165",
+      "tema": "recursos administrativos",
+      "resumo": "Dos atos da Administração decorrentes da aplicação desta Lei cabem: I – recurso, no prazo de 3 (três) dias úteis, contado da data de intimação ou de lavratura da ata, em face de: a) ato que defira ou indefira pedido de pré-qualificação de interessado ou de inscrição em registro cadastral, sua alteração ou cancelamento; b) julgamento das propostas; c) ato de habilitação ou inabilitação de licitante; d) anulação ou",
+      "palavras_chave": [
+        "atos",
+        "administracao",
+        "decorrentes",
+        "aplicacao"
+      ]
+    },
+    {
+      "artigo": "art. 166",
+      "tema": "da aplicação das sanções previstas nos incisos i,",
+      "resumo": "Da aplicação das sanções previstas nos incisos I, II e III do caput do art. 156 desta Lei",
+      "palavras_chave": [
+        "aplicacao",
+        "sancoes",
+        "previstas"
+      ]
+    },
+    {
+      "artigo": "art. 167",
+      "tema": "da aplicação da sanção prevista no inciso iv",
+      "resumo": "Da aplicação da sanção prevista no inciso IV do caput do art. 156 desta Lei caberá apenas pedido de reconsideração, que deverá ser apresentado no prazo de 15 (quinze) dias úteis, contado da data da intimação, e decidido no prazo máximo de 20 (vinte) dias úteis, contado do seu",
+      "palavras_chave": [
+        "aplicacao",
+        "sancao",
+        "prevista",
+        "prazo"
+      ]
+    },
+    {
+      "artigo": "art. 168",
+      "tema": "o recurso e o pedido de reconsideração terão",
+      "resumo": "O recurso e o pedido de reconsideração terão efeito suspensivo do ato ou da decisão",
+      "palavras_chave": [
+        "recurso",
+        "pedido",
+        "reconsideracao",
+        "terao"
+      ]
+    },
+    {
+      "artigo": "art. 169",
+      "tema": "as contratações públicas deverão submeter-se a práticas contínuas",
+      "resumo": "As contratações públicas deverão submeter-se a práticas contínuas e permanentes de gestão de riscos e de controle preventivo, inclusive mediante adoção de recursos de tecnologia da informação, e, além de estar subordinadas ao controle social, sujeitar-se-ão às seguintes linhas de defesa: I – primeira linha de defesa, integrada por servidores e empregados públicos, agentes de licitação e autoridades que atuam na",
+      "palavras_chave": [
+        "contratacoes",
+        "publicas",
+        "deverao",
+        "submeter"
+      ]
+    },
+    {
+      "artigo": "art. 170",
+      "tema": "controle das contratações",
+      "resumo": "Os órgãos de controle adotarão, na fiscalização dos atos previstos nesta Lei, critérios de oportunidade, materialidade, relevância e risco e considerarão as razões apresentadas pelos",
+      "palavras_chave": [
+        "controle",
+        "orgaos",
+        "adotarao",
+        "fiscalizacao"
+      ]
+    },
+    {
+      "artigo": "art. 171",
+      "tema": "na fiscalização de controle será observado o seguinte",
+      "resumo": "Na fiscalização de controle será observado o seguinte: I – viabilização de oportunidade de manifestação aos gestores sobre possíveis propostas de encaminhamento que terão impacto significativo nas rotinas de trabalho dos órgãos e entidades fiscalizados, a fim de que eles disponibilizem subsídios para avaliação prévia da relação entre custo e benefício dessas possíveis proposições; II – adoção de procedimentos",
+      "palavras_chave": [
+        "fiscalizacao",
+        "controle",
+        "sera",
+        "observado"
+      ]
+    },
+    {
+      "artigo": "art. 172",
+      "tema": "(vetado)",
+      "resumo": "(VETADO).",
+      "palavras_chave": [
+        "vetado"
+      ]
+    },
+    {
+      "artigo": "art. 173",
+      "tema": "os tribunais de contas deverão, por meio de",
+      "resumo": "Os tribunais de contas deverão, por meio de suas escolas de contas, promover eventos de capacitação para os servidores efetivos e empregados públicos designados para o desempenho",
+      "palavras_chave": [
+        "contas",
+        "tribunais",
+        "deverao",
+        "meio"
+      ]
+    },
+    {
+      "artigo": "art. 174",
+      "tema": "é criado o portal nacional de contratações públicas",
+      "resumo": "É criado o Portal Nacional de Contratações Públicas (PNCP), sítio eletrônico oficial destinado à: I – divulgação centralizada e obrigatória dos atos exigidos por esta Lei; II – realização facultativa das contratações pelos órgãos e entidades dos Poderes Executivo,",
+      "palavras_chave": [
+        "contratacoes",
+        "criado",
+        "portal",
+        "nacional"
+      ]
+    },
+    {
+      "artigo": "art. 175",
+      "tema": "sem prejuízo do disposto no art",
+      "resumo": "Sem prejuízo do disposto no art. 174 desta Lei, os entes federativos poderão instituir",
+      "palavras_chave": [
+        "prejuizo",
+        "entes",
+        "federativos",
+        "poderao"
+      ]
+    },
+    {
+      "artigo": "art. 176",
+      "tema": "os municípios com até 20",
+      "resumo": "Os Municípios com até 20.000 (vinte mil) habitantes terão o prazo de 6 (seis) anos,",
+      "palavras_chave": [
+        "municipios",
+        "vinte",
+        "habitantes",
+        "terao"
+      ]
+    },
+    {
+      "artigo": "art. 177",
+      "tema": "o caput do art",
+      "resumo": "O caput do art. 1.048 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo",
+      "palavras_chave": [
+        "marco",
+        "codigo",
+        "processo"
+      ]
+    },
+    {
+      "artigo": "art. 178",
+      "tema": "o título xi da parte especial do decreto-lei",
+      "resumo": "O Título XI da Parte Especial do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código",
+      "palavras_chave": [
+        "titulo",
+        "parte",
+        "especial",
+        "decreto"
+      ]
+    },
+    {
+      "artigo": "art. 179",
+      "tema": "os incisos ii e iii do caput do",
+      "resumo": "Os incisos II e III do caput do art. 2º da Lei nº 8.987, de 13 de fevereiro de 1995, passam a vigorar com a seguinte redação:",
+      "palavras_chave": [
+        "fevereiro",
+        "passam",
+        "vigorar",
+        "seguinte"
+      ]
+    },
+    {
+      "artigo": "art. 180",
+      "tema": "o caput do art",
+      "resumo": "O caput do art. 10 da Lei nº 11.079, de 30 de dezembro de 2004, passa a vigorar com a seguinte redação:",
+      "palavras_chave": [
+        "dezembro",
+        "passa",
+        "vigorar",
+        "seguinte"
+      ]
+    },
+    {
+      "artigo": "art. 181",
+      "tema": "os entes federativos instituirão centrais de compras, com",
+      "resumo": "Os entes federativos instituirão centrais de compras, com o objetivo de realizar compras em grande escala, para atender a diversos órgãos e entidades sob sua competência e atingir as",
+      "palavras_chave": [
+        "compras",
+        "entes",
+        "federativos",
+        "instituirao"
+      ]
+    },
+    {
+      "artigo": "art. 182",
+      "tema": "o poder executivo federal atualizará, a cada dia",
+      "resumo": "O Poder Executivo federal atualizará, a cada dia 1º de janeiro, pelo Índice Nacional de",
+      "palavras_chave": [
+        "poder",
+        "executivo",
+        "federal",
+        "atualizara"
+      ]
+    },
+    {
+      "artigo": "art. 183",
+      "tema": "os prazos previstos nesta lei serão contados com",
+      "resumo": "Os prazos previstos nesta Lei serão contados com exclusão do dia do começo e inclusão do dia do vencimento e observarão as seguintes disposições: I – os prazos expressos em dias corridos serão computados de modo contínuo; II – os prazos expressos em meses ou anos serão computados de data a data; III – nos prazos expressos em dias úteis, serão computados somente os dias em que ocorrer",
+      "palavras_chave": [
+        "prazos",
+        "serao",
+        "expressos",
+        "dias"
+      ]
+    },
+    {
+      "artigo": "art. 184",
+      "tema": "aplicam-se as disposições desta lei, no que couber",
+      "resumo": "Aplicam-se as disposições desta Lei, no que couber e na ausência de norma específica, aos convênios, acordos, ajustes e outros instrumentos congêneres celebrados por órgãos e",
+      "palavras_chave": [
+        "aplicam",
+        "disposicoes",
+        "couber",
+        "ausencia"
+      ]
+    },
+    {
+      "artigo": "art. 185",
+      "tema": "aplicam-se às licitações e aos contratos regidos pela",
+      "resumo": "Aplicam-se às licitações e aos contratos regidos pela Lei nº 13.303, de 30 de junho de",
+      "palavras_chave": [
+        "aplicam",
+        "licitacoes",
+        "contratos",
+        "regidos"
+      ]
+    },
+    {
+      "artigo": "art. 186",
+      "tema": "aplicam-se as disposições desta lei subsidiariamente à lei",
+      "resumo": "Aplicam-se as disposições desta Lei subsidiariamente à Lei nº 8.987, de 13 de fevereiro",
+      "palavras_chave": [
+        "aplicam",
+        "disposicoes",
+        "subsidiariamente",
+        "fevereiro"
+      ]
+    },
+    {
+      "artigo": "art. 187",
+      "tema": "os estados, o distrito federal e os municípios",
+      "resumo": "Os Estados, o Distrito Federal e os Municípios poderão aplicar os regulamentos editados",
+      "palavras_chave": [
+        "estados",
+        "distrito",
+        "federal",
+        "municipios"
+      ]
+    },
+    {
+      "artigo": "art. 188",
+      "tema": "(vetado)",
+      "resumo": "(VETADO).",
+      "palavras_chave": [
+        "vetado"
+      ]
+    },
+    {
+      "artigo": "art. 189",
+      "tema": "aplica-se esta lei às hipóteses previstas na legislação",
+      "resumo": "Aplica-se esta Lei às hipóteses previstas na legislação que façam referência expressa à Lei",
+      "palavras_chave": [
+        "aplica",
+        "hipoteses",
+        "previstas",
+        "legislacao"
+      ]
+    },
+    {
+      "artigo": "art. 190",
+      "tema": "o contrato cujo instrumento tenha sido assinado antes",
+      "resumo": "O contrato cujo instrumento tenha sido assinado antes da entrada em vigor desta Lei",
+      "palavras_chave": [
+        "contrato",
+        "cujo",
+        "instrumento",
+        "tenha"
+      ]
+    },
+    {
+      "artigo": "art. 191",
+      "tema": "até o decurso do prazo de que trata",
+      "resumo": "Até o decurso do prazo de que trata o inciso II do caput do art. 193, a Administração",
+      "palavras_chave": [
+        "decurso",
+        "prazo",
+        "trata",
+        "administracao"
+      ]
+    },
+    {
+      "artigo": "art. 192",
+      "tema": "o contrato relativo a imóvel do patrimônio da",
+      "resumo": "O contrato relativo a imóvel do patrimônio da União ou de suas autarquias e fundações",
+      "palavras_chave": [
+        "contrato",
+        "relativo",
+        "imovel",
+        "patrimonio"
+      ]
+    },
+    {
+      "artigo": "art. 193",
+      "tema": "revogam-se",
+      "resumo": "Revogam-se: I – os arts. 89 a 108 da Lei nº 8.666, de 21 de junho de 1993, na data de publicação desta Lei; II - em 30 de dezembro de 2023: (Redação dada pela Medida Provisória nº 1.167, de 2023) a) a Lei nº 8.666, de 1993; (Incluído pela Medida Provisória nº 1.167, de 2023) b) a Lei nº 10.520, de 2002; e (Incluído pela Medida Provisória nº 1.167, de 2023) c) os art. 1º a art. 47-A da Lei nº 12.462, de 2011.",
+      "palavras_chave": [
+        "pela",
+        "medida",
+        "provisoria",
+        "revogam"
+      ]
+    },
+    {
+      "artigo": "art. 194",
+      "tema": "esta lei entra em vigor na data de",
+      "resumo": "Esta Lei entra em vigor na data de sua publicação.",
+      "palavras_chave": [
+        "entra",
+        "vigor",
+        "data",
+        "publicacao"
+      ]
+    }
+  ]
+}
