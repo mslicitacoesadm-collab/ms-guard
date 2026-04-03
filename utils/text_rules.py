@@ -8,27 +8,20 @@ THEMES: Dict[str, List[str]] = {
     "inexequibilidade": ["inexequ", "preço inexequ", "preco inexequ", "desconto", "50%", "lucrativ"],
     "diligencia": ["diligência", "diligencia", "esclarecimento", "saneamento", "complementação", "complementacao"],
     "erro_material": ["erro material", "erro de cotação", "erro de cotacao", "equívoco", "equivoco"],
-    "desistencia": ["desistência", "desistencia", "desistir", "renúncia", "renuncia"],
+    "desistencia": ["desistência", "desistencia", "desistir", "renúncia", "renuncia", "motivo justo"],
     "prova": ["planilha", "nota fiscal", "notas fiscais", "laudo", "pesquisa de mercado", "composição de custos", "composicao de custos", "documento", "comprova"],
     "lotes": ["lote", "item", "itens", "parcelamento"],
     "tempestividade": ["tempestividade", "tempestivo", "prazo legal", "prazo recursal"],
-    "principios": ["legalidade", "isonomia", "competitividade", "economicidade", "julgamento objetivo", "boa-fé", "boa-fé objetiva", "razoabilidade", "proporcionalidade", "segurança jurídica"],
+    "principios": ["legalidade", "isonomia", "competitividade", "economicidade", "julgamento objetivo", "boa-fé", "boa fé", "razoabilidade", "proporcionalidade", "segurança jurídica"],
     "pedido_subsidiario": ["subsidiariamente", "caso não", "caso nao", "pedido subsidiário", "pedido subsidiario"],
     "edital": ["edital", "termo de referência", "termo de referencia", "instrumento convocatório", "instrumento convocatorio"],
     "habilitacao": ["habilitação", "habilitacao", "qualificação técnica", "qualificacao tecnica", "atestado", "capacidade técnica"],
-    "amostra_marca": ["amostra", "marca", "modelo", "catálogo", "catalogo", "equivalente"]
+    "amostra_marca": ["amostra", "marca", "modelo", "catálogo", "catalogo", "equivalente"],
 }
 
 SECTION_HINTS = [
-    "tempestividade",
-    "síntese", "sintese",
-    "fatos",
-    "mérito", "merito",
-    "fundamentação", "fundamentacao",
-    "pedidos",
-    "conclusão", "conclusao"
+    "tempestividade", "síntese", "sintese", "fatos", "mérito", "merito", "fundamentação", "fundamentacao", "pedidos", "conclusão", "conclusao"
 ]
-
 
 @dataclass
 class ThemeMatch:
@@ -109,17 +102,14 @@ def score_edital_adherence(edital_text: str, piece_text: str) -> Tuple[int, List
     piece_low = normalize(piece_text)
     notes: List[str] = []
     score = 4
-
     if "edital" in piece_low:
         score += 1
     else:
         notes.append("A peça deveria citar o edital de modo mais direto.")
-
     if "termo de referência" in piece_low or "termo de referencia" in piece_low:
         score += 1
     else:
         notes.append("Vale amarrar melhor a tese ao termo de referência.")
-
     edital_lots = re.findall(r"lote\s*(\d{1,3})", edital_low)
     piece_lots = re.findall(r"lote\s*(\d{1,3})", piece_low)
     overlap = set(edital_lots).intersection(set(piece_lots))
@@ -127,28 +117,24 @@ def score_edital_adherence(edital_text: str, piece_text: str) -> Tuple[int, List
         score += 2
     else:
         notes.append("A peça não conectou claramente os lotes citados ao edital.")
-
-    if any(a in piece_low for a in ["art. 59", "art. 64", "art. 165", "art. 170"]):
+    if any(a in piece_low for a in ["art. 59", "art. 64", "art. 165", "art. 170", "art. 47"]):
         score += 1
-
     return min(10, score), notes
 
 
 def score_plain_language(text: str) -> Tuple[int, List[str]]:
     words = re.findall(r"\w+", text)
     long_words = [w for w in words if len(w) >= 14]
-    latinisms = [
-        "consubstanciado", "precípuo", "edilício", "edilicias", "ex vi", "data venia", "outrossim", "alhures"
-    ]
+    formal_terms = ["consubstanciado", "precípuo", "edilício", "edilicias", "outrossim", "alhures"]
     low = normalize(text)
-    hits_latin = sum(1 for term in latinisms if normalize(term) in low)
+    hits_formal = sum(1 for term in formal_terms if normalize(term) in low)
     ratio_long = (len(long_words) / max(1, len(words)))
     score = 9
     notes: List[str] = []
     if ratio_long > 0.18:
         score -= 2
         notes.append("A linguagem está mais técnica do que o ideal para público leigo.")
-    if hits_latin >= 2:
+    if hits_formal >= 2:
         score -= 2
         notes.append("Há expressões muito jurídicas; vale traduzir para uma escrita mais direta.")
     if len(re.findall(r";", text)) > 12:

@@ -1,11 +1,10 @@
 from __future__ import annotations
 
-import io
 import re
 from dataclasses import dataclass
 from typing import List, Optional
 
-import fitz  # PyMuPDF
+import fitz
 
 
 @dataclass
@@ -15,64 +14,46 @@ class PdfDocument:
     pages: int
 
 
-def extract_text_from_pdf(file_bytes: bytes, filename: str) -> PdfDocument:
-    """Extrai texto de um PDF usando PyMuPDF."""
-    doc = fitz.open(stream=file_bytes, filetype="pdf")
-    parts: List[str] = []
-    for page in doc:
-        text = page.get_text("text") or ""
-        parts.append(text)
-    joined = "\n".join(parts)
-    joined = normalize_text(joined)
-    return PdfDocument(name=filename, text=joined, pages=len(doc))
-
-
-def normalize_text(text: str) -> str:
-    text = text.replace("\u00a0", " ")
-    text = re.sub(r"[ \t]+", " ", text)
-    text = re.sub(r"\n{3,}", "\n\n", text)
+def _clean_text(text: str) -> str:
+    text = text.replace('\x00', ' ')
+    text = re.sub(r'\s+', ' ', text)
     return text.strip()
 
 
-def split_sections(text: str) -> List[str]:
-    """Quebra texto em blocos relevantes."""
-    markers = [
-        r"\nI[\.|\)] ", r"\nII[\.|\)] ", r"\nIII[\.|\)] ", r"\nIV[\.|\)] ",
-        r"\nV[\.|\)] ", r"\nVI[\.|\)] ", r"\nVII[\.|\)] ", r"\nVIII[\.|\)] ",
-        r"\nIX[\.|\)] ", r"\nX[\.|\)] ",
-        r"\nDOS PEDIDOS", r"\nDA TEMPESTIVIDADE", r"\nDAS RAZÕES", r"\nCONCLUSÃO"
-    ]
-    pattern = "(" + "|".join(markers) + ")"
-    chunks = re.split(pattern, text, flags=re.IGNORECASE)
-    cleaned = [c.strip() for c in chunks if c and c.strip()]
-    return cleaned if cleaned else [text]
+def extract_text_from_pdf(file_bytes: bytes, filename: str) -> PdfDocument:
+    text_parts = []
+    pages = 0
+    with fitz.open(stream=file_bytes, filetype='pdf') as doc:
+        pages = len(doc)
+        for page in doc:
+            text_parts.append(page.get_text('text'))
+    text = _clean_text('\n'.join(text_parts))
+    return PdfDocument(name=filename, text=text, pages=pages)
 
 
 def find_articles(text: str) -> List[str]:
-    found = re.findall(r"art\.?\s*\d+[A-Za-zº°]*(?:\s*,\s*§\s*\d+[º°]?)?", text, flags=re.IGNORECASE)
-    # remove duplicados preservando ordem
-    seen = set()
-    result = []
-    for item in found:
-        normalized = item.lower().replace("  ", " ").strip()
-        if normalized not in seen:
-            seen.add(normalized)
-            result.append(item.strip())
+    matches = re.findall(r'art\.\s*\d+[ºo]?(?:\s*,\s*§\s*\d+[ºo]?)?', text, flags=re.IGNORECASE)
+    result, seen = [], set()
+    for m in matches:
+        key = m.lower().replace('o', 'º')
+        if key not in seen:
+            seen.add(key)
+            result.append(m)
     return result
 
 
 def find_lots(text: str) -> List[str]:
-    lots = re.findall(r"lote\s*(?:n[ºo]\s*)?(\d{1,3})", text, flags=re.IGNORECASE)
-    seen = set()
-    result = []
-    for lot in lots:
-        if lot not in seen:
-            seen.add(lot)
-            result.append(lot)
+    lots = re.findall(r'lote\s*(?:n[ºo]\s*)?(\d{1,3})', text, flags=re.IGNORECASE)
+    items = re.findall(r'item\s*(?:n[ºo]\s*)?(\d{1,3})', text, flags=re.IGNORECASE)
+    seen, result = set(), []
+    for value in lots + items:
+        if value not in seen:
+            seen.add(value)
+            result.append(value)
     return result
 
 
-def excerpt_around_keyword(text: str, keyword: str, window: int = 500) -> Optional[str]:
+def excerpt_around_keyword(text: str, keyword: str, window: int = 450) -> Optional[str]:
     low = text.lower()
     idx = low.find(keyword.lower())
     if idx == -1:
